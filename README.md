@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Weiyang Jin, a CVer and AI learner.
+
+-🔭 I’m currently working on constructing better representation for every CV tasks.
+- 🌱 I’m currently visiting @ Westlake University advised by: Prof. Weiyang Liu & Prof. Yandong Wen
+- 👯 Previous I've collaborated with Prof. Saining Xie @ New York University, Prof. Hao Zhao @ TsingHua University, Siyuan Li @ Westlake University
+
 
 <!--
 **WayneJin0918/WayneJin0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
