@@ -2,7 +2,7 @@
 I'm Weiyang Jin, a CVer and AI learner.
 
 - 🔭 I’m currently working on constructing better representations for every CV task.
-- 🌱 I’m now still pushing my works with Faculty Fellow Jihan Yang @ New York University
+- 🌱 I’m now still pushing my works with Prof. Saining Xie.
 - 👯 Previous I've collaborated with
 <br> Prof. Saining Xie @ New York University,
 <br> Prof. Hao Zhao @ TsingHua University,
