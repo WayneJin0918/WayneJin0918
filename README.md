@@ -2,7 +2,7 @@
 I'm Weiyang Jin, a CVer and AI learner.
 
 - 🔭 I’m currently working on constructing better representations for every CV task.
-- 🌱 I’m now still pushing my works with Prof. Saining Xie.
+- 🌱 I’m now incoming PhD Student @ HKU IDS (MMLab) Supervised by Prof. Xihui Liu
 - 👯 Previous I've collaborated with
 <br> Prof. Saining Xie @ New York University,
 <br> Prof. Hao Zhao @ TsingHua University,
