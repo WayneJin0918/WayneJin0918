@@ -6,7 +6,7 @@ I'm Weiyang Jin, a CVer and AI learner.
 - 👯 Previous I've collaborated with
 <br> Prof. Saining Xie @ New York University,
 <br> Prof. Hao Zhao @ TsingHua University,
-<br> Siyuan Li @ Westlake University
+<br> Dr. Siyuan Li @ Westlake University
 
 
 <!--
